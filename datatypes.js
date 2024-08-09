@@ -2,7 +2,7 @@
 
  There are two datatypes:
  1.Primitive datatypes:
- .Numver
+ .Number
  .String
  .Boolean
  .Null

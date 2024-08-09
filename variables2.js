@@ -1,8 +1,8 @@
-let myName="Tajinder Singh"
+let myName="Tajinder Singh";
 let a = myName;
 console.log(a);
 
-let Name = "Inderjit KAur"
+let Name = "Inderjit Kaur";
 name = "Mehak";
 console.log(name);
 

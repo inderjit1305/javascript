@@ -1,6 +1,6 @@
 var i = 1;
-do{
-    console.log(`2 X ${i} = ${2*i}`);
-     i++;
+do {
+    console.log(`2 X ${i} = ${2 * i}`);
+    i++;
 }
-while(i<=10);
+while (i <= 10);
