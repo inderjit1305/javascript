@@ -4,4 +4,4 @@ function add(a,b,c)
 }
 let x = 10;
 let y = 3;
-console.log(add(x,y,20));
+console.log(add(x,y,20))

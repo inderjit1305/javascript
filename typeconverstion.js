@@ -8,6 +8,6 @@ console.log(result);
 console.log(typeof result); 
 
 result = 20;
-result = parset(result);
+result = parseInt(result);
 console.log(result);
 console.log(typeof result);
